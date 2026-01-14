@@ -1,4 +1,4 @@
-# restaurant-menu-html-project
+# Restaurant-Menu-html-Project
 This is a beginner-friendly HTML project that recreates a restaurant menu for Black Goose Bistro.
 
 
